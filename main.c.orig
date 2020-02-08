@@ -4,11 +4,12 @@ Initial Function()
 {
   //Sample Code
 }
+<<<<<<< HEAD
 Feature1()
 {
 }
-
+=======
 security patch() {}
 
-
+>>>>>>> master
 }
